@@ -4,3 +4,10 @@ Hello version 1
 17:16 Version 3
 17:17 Version 4
 17:18 Version 5 of main branch
+Commit 1 of feature branch
+17:28 Commit 2 of feature branch
+
+18:37 This is the message on the main branch, not the feature branch
+
+18:33 Post-merge - edit message on featurebranch
+18:35 Post-merge - edit message on feature1branch. Edited during merge conflict
