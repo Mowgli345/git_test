@@ -1,3 +1,4 @@
 Commit 1 of feature branch
 17:28 Commit 2 of feature branch
-
+18:33 Post-merge - edit message on main
+18:35 Post-merge - edit message on feature1branch. This shouldn't appear in main, but the above message was entered on main yet appears here
