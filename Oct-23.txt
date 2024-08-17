@@ -12,4 +12,5 @@ Commit 1 of feature branch
 18:33 Post-merge - edit message on featurebranch
 18:35 Post-merge - edit message on feature1branch. Edited during merge conflict
 
-
+15 Oct 9:54 - Add line in new feature1 branch
+15 October 9:57 Add line to feature2
